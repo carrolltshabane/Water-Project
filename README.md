@@ -3,6 +3,8 @@
 # Project Overview
 This project analyzes the physico-chemical parameters of a polluted river in Buenos Aires to assess its water quality and identify potential sources of contamination. By leveraging a dataset from Kaggle, we perform data preprocessing, exploratory data analysis (EDA), hypothesis testing, and machine learning modeling to evaluate water quality trends and predict contamination levels.
 
+Trello Board: https://trello.com/invite/b/674daf9e017562db7e6a6c57/ATTI97c8e45c33d0bff7c7ec741971cfc361B9AE654F/capstone-project
+
 # Project Goals
 1. Evaluate the current state of water quality by analyzing key physico-chemical parameters.
 2. Investigate correlations between various parameters to identify potential pollution sources and their impact on water quality.
