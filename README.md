@@ -70,7 +70,7 @@ The analysis highlights critical water quality indicators like pH, conductivity,
 Seasonal variations and industrial pollution were identified as major contributors to contamination.
 The Random Forest model achieved high accuracy in predicting contamination levels, emphasizing the importance of physico-chemical features.
 Contributions
-This project was created and maintained by [Your Name/Team Name]. Contributions and suggestions are welcome! Please feel free to submit issues or pull requests.
+This project was created and maintained by Carroll. Contributions and suggestions are welcome! Please feel free to submit issues or pull requests.
 
 # References
 See References and Sources section for detailed citations.
