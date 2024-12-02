@@ -16,7 +16,8 @@ Source: Ferran, N. (2023). River Water Parameters. Kaggle.
 Size: Contains multiple rows of measurements across different locations and time periods.
 Features: Includes both numerical (e.g., pH, conductivity, dissolved oxygen) and categorical variables (e.g., water hardness classification).
 Scope: Represents diverse physico-chemical characteristics essential for water quality assessment.
-Technologies Used
+
+# Technologies Used
 Programming Language: Python
 Libraries:
 Data Analysis: pandas, NumPy
@@ -25,32 +26,31 @@ Machine Learning: Scikit-learn
 Statistical Testing: SciPy
 Environment: Google Colab / Jupyter Notebook
 
-Key Components
-# Data Preprocessing
-
+# Key Components
+1. Data Preprocessing
 Handled missing values and outliers.
 Converted date columns to a standardized format.
 Encoded categorical features for compatibility with machine learning models.
-Exploratory Data Analysis (EDA)
 
+2. Exploratory Data Analysis (EDA)
 Visualized distributions and trends across months.
 Generated correlation heatmaps to identify key relationships among variables.
 Highlighted seasonal trends and patterns.
-Water Quality Assessment
 
+3. Water Quality Assessment
 Conducted hypothesis testing to compare water quality indicators against reference standards.
 Assessed contamination levels based on physico-chemical properties.
-Predictive Modeling
 
+4. Predictive Modeling
 Built machine learning models (e.g., Random Forest) to predict contamination levels.
 Evaluated models using metrics like accuracy and feature importance analysis.
-Insights and Recommendations
 
+5. Insights and Recommendations
 Highlighted parameters significantly impacting water quality.
 Suggested actionable measures for environmental monitoring and remediation.
-How to Use
-Clone the Repository:
 
+# How to Use
+Clone the Repository:
 bash
 Copy code
 git clone https://github.com/your-username/river-water-analysis.git
@@ -62,8 +62,7 @@ Copy code
 pip install -r requirements.txt
 Run the Notebook: Open RiverWaterAnalysis.ipynb in Jupyter Notebook or Google Colab.
 
-Analyze Results:
-
+# Analyze Results:
 View EDA visualizations and hypothesis test outputs.
 Evaluate model predictions and feature importance.
 Results
@@ -73,10 +72,8 @@ The Random Forest model achieved high accuracy in predicting contamination level
 Contributions
 This project was created and maintained by [Your Name/Team Name]. Contributions and suggestions are welcome! Please feel free to submit issues or pull requests.
 
-References
+# References
 See References and Sources section for detailed citations.
 
-License
-This project is licensed under the MIT License.
 
-For further inquiries, contact [your-email@example.com].
+For further inquiries, contact [ctshabane@gmail.com].
